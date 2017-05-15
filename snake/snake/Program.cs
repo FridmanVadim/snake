@@ -17,8 +17,7 @@ namespace snake
             p2.y = 5;
             p2.sym = '#';
             p2.Drow();
-            
-            
+                        
             Console.ReadLine();
         }
 
